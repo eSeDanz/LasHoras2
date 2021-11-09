@@ -5,8 +5,7 @@ body#fondo {background-color: bisque;}
 h1#marron {color: brown;
 text-align: center;}
 
-p.marron {color:brown;}
+p.marron {color: brown;
+font-size: medium;}
 
-section.centrado {text-align: center;}
-
-section.derecha {text-align: right;}
+div.centrado {text-align: center;}
